@@ -17,8 +17,6 @@
 
 ```
 
-***While waiting for the lambo... 🏎️*** 
-
 - **Opensea**: https://opensea.io/collection/wenlambo-nfts
 - **Contract**: https://polygonscan.com/token/0xd63a0242c4519ba661b7b670a377dfa11f4ac947
 
